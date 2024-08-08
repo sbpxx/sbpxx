@@ -1,8 +1,8 @@
 ## Hi there 👋
 <!-- ![Presentation](./Img/presentationGH.gif) -->
-<img src="./Img/sekigit1.jpg" align="left" style="border-radius: 15px;">
+<img src="./Img/sekigit1.jpg" align="left" >
 
-<img src="Img/aboutme.jpg" width="50%" style="border-radius:50%">
+<img src="Img/aboutme.jpg" width="50%" >
 
 
 
@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-&nbsp;- Actually student in **Master's degree Database/AI** &nbsp;ˋ𓆩🔘ˊ˗⭒
+&nbsp;- Currently student in **Master's degree in Database/AI** &nbsp;ˋ𓆩🔘ˊ˗⭒
 <br/>
 <br/>
 
@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-<img src="./Img/sekigit2.jpg" align="right" width="48%">
+<img src="./Img/sekigit2.jpg" align="right" width="47.5%">
 <img src="./Img/sekirepo.jpg" width="50%" >
 <!--
 <img src="./Img/sekigit3.jpg" width="50%">
