@@ -20,7 +20,7 @@
 <br/>
 <br/>
  
-&nbsp;● Comfortable with **Java** / **JavaScript** / **C++** &nbsp;˖°♟️✧'
+&nbsp;● Confident in **Java** / **JavaScript** / **C++** &nbsp;˖°♟️✧'
 <br/>
 <br/>
 
