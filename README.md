@@ -6,25 +6,26 @@
 
 
 
-<br/>
-<br/>
-&nbsp;- Name **Sid Ali**  .₊˚🎧⊹
+
+
+&nbsp;● Name **Sid Ali**  .₊˚🎧⊹
 <br/>
 <br/>
 
-&nbsp;- Live in **Dijon , France** &nbsp;⋆.🌑.ೃ
+&nbsp;● Live in **Dijon , France** &nbsp;⋆.🌑.ೃ
+<br/>
+<br/>
+ 
+&nbsp;● Currently a student in **Master's degree in Database/AI** &nbsp;ˋ𓆩🔘ˊ˗⭒
+<br/>
+<br/>
+ 
+&nbsp;● Comfortable with **Java** / **JavaScript** / **C++** &nbsp;˖°♟️✧'
 <br/>
 <br/>
 
-&nbsp;- Currently a student in **Master's degree in Database/AI** &nbsp;ˋ𓆩🔘ˊ˗⭒
+&nbsp;● Skilled with **Photoshop** & **Blender**  &nbsp;₊⊹݁☁️⊰˚
 <br/>
-<br/>
-
-&nbsp;- Comfortable with **Java** / **JavaScript** / **C++** &nbsp;˖°♟️✧'
-<br/>
-<br/>
-
-&nbsp;- Skilled with **Photoshop** & **Blender**  &nbsp;₊⊹݁☁️⊰˚
 <br/>
 <br/>
 
