@@ -1,5 +1,6 @@
 ## Hi there 👋
-<!-- ![Presentation](./Img/presentationGH.gif) -->
+
+<!-- <img src="./Img/presentationGH.gif" width="100%" height="100" /> -->
 <img src="./Img/sekigit1.jpg" align="left" >
 
 <img src="Img/aboutme.jpg" width="50%" >
