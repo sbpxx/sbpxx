@@ -3,12 +3,12 @@
 <img src="./Img/sekigit1.jpg" align="left" >
 
 <img src="Img/aboutme.jpg" width="50%" >
-
-
-
-
 <br/>
-&nbsp;● Name **Sid Ali**  .₊˚🎧⊹
+
+
+
+
+&nbsp;● Name **Sid** **Ali** .₊˚🎧⊹
 <br/>
 <br/>
 
@@ -25,6 +25,7 @@
 <br/>
 
 &nbsp;● Skilled with **Photoshop** & **Blender**  &nbsp;₊⊹݁☁️⊰˚
+<br/>
 <br/>
 <br/>
 <br/>
