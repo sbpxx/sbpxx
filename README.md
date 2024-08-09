@@ -27,6 +27,8 @@
 &nbsp;- Skilled with **Photoshop** & **Blender**  &nbsp;₊⊹݁☁️⊰˚
 <br/>
 <br/>
+<br/>
+<br/>
 
 <img src="./Img/sekigit2.jpg" align="right" width="47.5%">
 <img src="./Img/sekirepo.jpg" width="50%" >
