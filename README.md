@@ -6,8 +6,8 @@
 
 
 
-
-
+<br/>
+<br/>
 &nbsp;- Name **Sid Ali**  .₊˚🎧⊹
 <br/>
 <br/>
@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-&nbsp;- Currently student in **Master's degree in Database/AI** &nbsp;ˋ𓆩🔘ˊ˗⭒
+&nbsp;- Currently a student in **Master's degree in Database/AI** &nbsp;ˋ𓆩🔘ˊ˗⭒
 <br/>
 <br/>
 
@@ -25,8 +25,6 @@
 <br/>
 
 &nbsp;- Skilled with **Photoshop** & **Blender**  &nbsp;₊⊹݁☁️⊰˚
-<br/>
-<br/>
 <br/>
 <br/>
 
