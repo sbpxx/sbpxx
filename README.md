@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-&nbsp;● Skilled with **Photoshop** & **Blender**  &nbsp;₊⊹݁☁️⊰˚
+&nbsp;● Skilled in **Photoshop** & **Blender**  &nbsp;₊⊹݁☁️⊰˚
 <br/>
 <br/>
 <br/>
