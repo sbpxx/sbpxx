@@ -36,17 +36,14 @@
 <br/>
 <br/>
 <br/>
+<p>● <strong>Projet d'application mobile</strong> 📱</p>
+<p><a href="https://github.com/sbpxx/M1-Programmation-Mobile">M1 - Programmation mobile</a></p>
 <br/>
+<p>● <strong>Application de gestion de contacts</strong> 👥</p>
+<p><a href="https://github.com/sbpxx/L3-CDAA">L3 - CDAA</a></p>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<p>● <strong>Site web de formation en ligne</strong> 🌐</p>
+<p><a href="https://github.com/sbpxx/L3-DAW">L3 - DAW</a></p>
 <br/>
 <br/>
 <br/>
