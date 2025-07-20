@@ -34,8 +34,6 @@
 <img src="./Img/sekigit2.jpg" align="right" width="47.5%">
 <img src="./Img/sekirepo.jpg" width="50%" >
 <br/>
-<br/>
-<br/>
 <p>● <strong>Projet d'application mobile</strong> 📱</p>
 <p><a href="https://github.com/sbpxx/M1-Programmation-Mobile">M1 - Programmation mobile</a></p>
 <br/>
@@ -44,6 +42,13 @@
 <br/>
 <p>● <strong>Site web de formation en ligne</strong> 🌐</p>
 <p><a href="https://github.com/sbpxx/L3-DAW">L3 - DAW</a></p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
