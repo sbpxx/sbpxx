@@ -40,8 +40,8 @@
 <p>● <strong>Application de gestion de contacts</strong> 👥</p>
 <p><a href="https://github.com/sbpxx/L3-CDAA">L3 - CDAA</a></p>
 <br/>
-<p>● <strong>Site web de formation en ligne</strong> 🌐</p>
-<p><a href="https://github.com/sbpxx/L3-DAW">L3 - DAW</a></p>
+<p>● <strong>AI-powered university assistant</strong> 🤖</p>
+<p><a href="https://github.com/sbpxx/M2-Noctua-Ai">M2 - Noctua AI</a></p>
 <br/>
 <br/>
 <br/>
