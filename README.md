@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- <img src="./Img/presentationGH.gif" width="100%" height="100" /> -->
-<img src="./Img/img11.jpg" align="left" width="450" >
+<img src="./Img/img11.jpg" align="left" width="425" >
 
 <img src="Img/aboutimg.jpg" width="50%" >
 <br/>
