@@ -37,6 +37,9 @@
 <p>● <strong>AI-powered university assistant</strong> 🤖</p>
 <p><a href="https://github.com/sbpxx/M2-Noctua-Ai">M2 - Noctua AI</a></p>
 <br/>
+<p>● <strong>Site de création de paternes de broderie</strong> 🪡</p>
+<p><a href="https://github.com/sbpxx/M1-Embroidery-Pattern-Maker">M1 - Embroidery pattern maker</a></p>
+<br/>
 <p>● <strong>Projet d'application mobile - Domotique </strong> 📱</p>
 <p><a href="https://github.com/sbpxx/M1-Programmation-Mobile">M1 - Programmation mobile</a></p>
 <br/>
@@ -47,11 +50,5 @@
 <p><a href="https://github.com/psamuthis/yelp-etl">M2 - Data Warehouse Yelp</a></p>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbpxx&layout=compact&hide=css,hack,qmake" align="right">
-<!--
-<img src="./Img/sekigit3.jpg" width="50%">
-<img src="./Img/sekigit4.jpg" width="50%" height="50%">
--->
+
