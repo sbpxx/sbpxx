@@ -34,6 +34,9 @@
 <img src="./Img/img12.jpg" align="right" width="47.5%">
 <img src="./Img/repoimg.jpg" width="50%" >
 <br/>
+<p>● <strong>AI-powered CV rewiever</strong>📜🤖</p>
+<p><a href="https://github.com/sbpxx/Resume-AI-Rewiever ">Resume-AI-Rewiever</a></p>
+<br/>
 <p>● <strong>AI-powered university assistant</strong> 🤖</p>
 <p><a href="https://github.com/sbpxx/M2-Noctua-Ai">M2 - Noctua AI</a></p>
 <br/>
