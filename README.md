@@ -42,11 +42,11 @@
 <img src="./Img/img12.jpg" align="right" width="47.5%">
 <img src="./Img/repoimg.jpg" width="50%" >
 <br/>
-<p>● <strong>CalistheCool — Android app with an agentic AI coach</strong> 🏋️🤖</p>
-<p>Kotlin · Jetpack Compose · Claude / OpenAI tool calling · <em>private for now</em></p>
+<p>● <strong>Sports coaching Android app with an agentic AI coach</strong> 🏋️🤖</p>
+<p>Kotlin · Jetpack Compose · Claude / OpenAI / Gemini tool calling · <em>private for now</em></p>
 <br/>
-<p>● <strong>PrivateStream — serverless, end-to-end encrypted PC-to-PC game streaming</strong> 🎮🔒</p>
-<p>WebRTC · Electron · <em>private for now</em></p>
+<p>● <strong>PrivateStream — serverless, end-to-end encrypted PC-to-PC streaming</strong> 📡🔒</p>
+<p>Stream anything: screen, apps, games… · WebRTC · Electron · <em>private for now</em></p>
 <br/>
 <p>● <strong>Dashboard-Sec — one cockpit for ~20 cybersecurity tools</strong> 🛡️</p>
 <p>Tauri (Rust) · React · TypeScript · <em>private for now</em></p>
